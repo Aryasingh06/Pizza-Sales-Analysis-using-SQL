@@ -33,7 +33,13 @@ Tables
 - Pizza Types
 
 Entity Relationship Diagram
-![EEE](sql pizza sales project/screenshots/EEE.png)
+![EEE](screenshots/EEE.png)
+
+## Total Revenue Output
+![total_revenue](screenshots/total_revenue.png)
+
+## TOP 5 PIZZAS
+![top_5_pizzas](screenshots/top_5_pizzas.png)
 
 ## SQL Concepts Used
 - CREATE DATABASE
