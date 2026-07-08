@@ -33,7 +33,7 @@ Tables
 - Pizza Types
 
 Entity Relationship Diagram
-![EEE](EEE.PNG)
+![EEE](EEE.png)
 
 ## SQL Concepts Used
 - CREATE DATABASE
